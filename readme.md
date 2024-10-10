@@ -101,4 +101,4 @@ if (!$company->update('TechCorp', 'This is a leading tech company.', ['location'
 
 - Після встановлення теми, при відкритті головної сторінки (`index.php`) на сайті буде відображено результати виконання CRUD операцій для об'єктів `Company` та `Employer`. 
 - Всі файли проєкту розмістити в архіві
-- Zip-архів `result.zip` завантажити на Google Drive, посилання надіслати на електронну адресу: `mariia.chekanina@netsolidinvest.com`
+- Zip-архів `result.zip` завантажити на Google Drive, посилання надіслати на електронну адресу: `mariia.chekanina@tips.gg`
